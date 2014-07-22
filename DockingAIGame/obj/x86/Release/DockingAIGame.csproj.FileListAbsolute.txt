@@ -1,0 +1,12 @@
+D:\GameDevelopment\Gamesdev\DockingAIGame\DockingAIGame\bin\WindowsGL\Release\SDL.dll
+D:\GameDevelopment\Gamesdev\DockingAIGame\DockingAIGame\bin\WindowsGL\Release\DockingAIGame.exe
+D:\GameDevelopment\Gamesdev\DockingAIGame\DockingAIGame\bin\WindowsGL\Release\DockingAIGame.pdb
+D:\GameDevelopment\Gamesdev\DockingAIGame\DockingAIGame\bin\WindowsGL\Release\Lidgren.Network.dll
+D:\GameDevelopment\Gamesdev\DockingAIGame\DockingAIGame\bin\WindowsGL\Release\MonoGame.Framework.dll
+D:\GameDevelopment\Gamesdev\DockingAIGame\DockingAIGame\bin\WindowsGL\Release\OpenTK.dll
+D:\GameDevelopment\Gamesdev\DockingAIGame\DockingAIGame\bin\WindowsGL\Release\Tao.Sdl.dll
+D:\GameDevelopment\Gamesdev\DockingAIGame\DockingAIGame\obj\x86\Release\DockingAIGame.exe
+D:\GameDevelopment\Gamesdev\DockingAIGame\DockingAIGame\obj\x86\Release\DockingAIGame.pdb
+D:\GameDevelopment\Gamesdev\DockingAIGame\DockingAIGame\obj\x86\Release\DockingAIGame.csprojResolveAssemblyReference.cache
+D:\GameDevelopment\Gamesdev\DockingAIGame\DockingAIGame\bin\WindowsGL\Release\Content\gamelogo.png
+D:\GameDevelopment\Gamesdev\DockingAIGame\DockingAIGame\bin\WindowsGL\Release\Content\menu_background.png
