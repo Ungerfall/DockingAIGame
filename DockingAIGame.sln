@@ -3,20 +3,48 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockingAIGame", "DockingAIGame\DockingAIGame.csproj", "{CE1BC24A-B952-4CDE-8E84-2E7FDCEB7D62}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MinimaxAI", "MinimaxAI\MinimaxAI.vcxproj", "{5E17CFD2-2F09-4C73-892A-0FF948323ACC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
 		Debug|x86 = Debug|x86
 		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{CE1BC24A-B952-4CDE-8E84-2E7FDCEB7D62}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{CE1BC24A-B952-4CDE-8E84-2E7FDCEB7D62}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{CE1BC24A-B952-4CDE-8E84-2E7FDCEB7D62}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{CE1BC24A-B952-4CDE-8E84-2E7FDCEB7D62}.Debug|Win32.ActiveCfg = Debug|x86
+		{CE1BC24A-B952-4CDE-8E84-2E7FDCEB7D62}.Debug|Win32.Build.0 = Debug|x86
 		{CE1BC24A-B952-4CDE-8E84-2E7FDCEB7D62}.Debug|x86.ActiveCfg = Debug|x86
 		{CE1BC24A-B952-4CDE-8E84-2E7FDCEB7D62}.Debug|x86.Build.0 = Debug|x86
 		{CE1BC24A-B952-4CDE-8E84-2E7FDCEB7D62}.Release|Any CPU.ActiveCfg = Release|x86
+		{CE1BC24A-B952-4CDE-8E84-2E7FDCEB7D62}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{CE1BC24A-B952-4CDE-8E84-2E7FDCEB7D62}.Release|Mixed Platforms.Build.0 = Release|x86
+		{CE1BC24A-B952-4CDE-8E84-2E7FDCEB7D62}.Release|Win32.ActiveCfg = Release|x86
+		{CE1BC24A-B952-4CDE-8E84-2E7FDCEB7D62}.Release|Win32.Build.0 = Release|x86
 		{CE1BC24A-B952-4CDE-8E84-2E7FDCEB7D62}.Release|x86.ActiveCfg = Release|x86
 		{CE1BC24A-B952-4CDE-8E84-2E7FDCEB7D62}.Release|x86.Build.0 = Release|x86
+		{5E17CFD2-2F09-4C73-892A-0FF948323ACC}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{5E17CFD2-2F09-4C73-892A-0FF948323ACC}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{5E17CFD2-2F09-4C73-892A-0FF948323ACC}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{5E17CFD2-2F09-4C73-892A-0FF948323ACC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5E17CFD2-2F09-4C73-892A-0FF948323ACC}.Debug|Win32.Build.0 = Debug|Win32
+		{5E17CFD2-2F09-4C73-892A-0FF948323ACC}.Debug|x86.ActiveCfg = Debug|Win32
+		{5E17CFD2-2F09-4C73-892A-0FF948323ACC}.Debug|x86.Build.0 = Debug|Win32
+		{5E17CFD2-2F09-4C73-892A-0FF948323ACC}.Release|Any CPU.ActiveCfg = Release|Win32
+		{5E17CFD2-2F09-4C73-892A-0FF948323ACC}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{5E17CFD2-2F09-4C73-892A-0FF948323ACC}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{5E17CFD2-2F09-4C73-892A-0FF948323ACC}.Release|Win32.ActiveCfg = Release|Win32
+		{5E17CFD2-2F09-4C73-892A-0FF948323ACC}.Release|Win32.Build.0 = Release|Win32
+		{5E17CFD2-2F09-4C73-892A-0FF948323ACC}.Release|x86.ActiveCfg = Release|Win32
+		{5E17CFD2-2F09-4C73-892A-0FF948323ACC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

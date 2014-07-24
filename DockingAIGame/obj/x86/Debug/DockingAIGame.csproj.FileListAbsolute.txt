@@ -12,4 +12,3 @@ D:\GameDevelopment\Gamesdev\DockingAIGame\DockingAIGame\bin\WindowsGL\Debug\Cont
 D:\GameDevelopment\Gamesdev\DockingAIGame\DockingAIGame\bin\WindowsGL\Debug\Content\Fonts\Comic Sans MS.xnb
 D:\GameDevelopment\Gamesdev\DockingAIGame\DockingAIGame\bin\WindowsGL\Debug\Content\arrow_left.xnb
 D:\GameDevelopment\Gamesdev\DockingAIGame\DockingAIGame\bin\WindowsGL\Debug\Content\arrow_right.xnb
-D:\GameDevelopment\Gamesdev\DockingAIGame\DockingAIGame\obj\x86\Debug\DockingAIGame.csprojResolveAssemblyReference.cache
